@@ -69,6 +69,34 @@
             "payment_button_background": "#fff0f1",
             "payment_button_text_color": "#000000"
           }
+        },
+        "collapsible_text_VgiVaP": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_tdtXqD": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment appliquer le sérum de croissance pour cils ?",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_cmBfH4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_gwz38t": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Satisfaits ou remboursés",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
         }
       },
       "block_order": [
@@ -80,7 +108,11 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_VgiVaP",
+        "collapsible_text_tdtXqD",
+        "collapsible_text_cmBfH4",
+        "collapsible_text_gwz38t"
       ],
       "settings": {
         "full_width": true,
