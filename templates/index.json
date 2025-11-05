@@ -58,11 +58,7 @@
         "products": [
           "serum-de-croissance-pour-cils",
           "serum-de-croissance-pour-sourcils",
-          "mascara-avec-serum-de-croissance-infuse",
-          "pack-duo-de-reve",
-          "pack-les-indispensables",
-          "pack-regard-intense",
-          "pack-trio-ultime"
+          "mascara-avec-serum-de-croissance-infuse"
         ],
         "full_width": true,
         "stack_products": false,
@@ -171,7 +167,12 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "pack-duo-de-reve",
+          "pack-les-indispensables",
+          "pack-regard-intense",
+          "pack-trio-ultime"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
