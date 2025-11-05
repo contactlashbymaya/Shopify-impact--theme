@@ -1,0 +1,200 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_TLDtYE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center; font-family: 'DIN Next', Arial, sans-serif; font-size: 13px;\" bis_skin_checked=\"1\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0979/9280/2641/files/etoiles_trustpilot_1.webp?v=1762376998\" alt=\"Trustpilot Stars\" style=\"width: 100px; height: auto; margin-right: 10px;\">\n  <span style=\"color: #1a1a1a; font-weight: bold;\">\n    + de 3 000 <span style=\"font-weight: normal;\"> clientes satisfaites</span>\n  </span>\n</div>\n          </div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#000000",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#fff0f1",
+            "payment_button_text_color": "#000000"
+          }
+        },
+        "collapsible_text_VgiVaP": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Oubliez les extensions, la colle et les rendez-vous en institut. Avec <strong>Lash by Maya Beauty</strong>, redécouvrez la puissance de vos cils naturels. Notre sérum agit à la racine pour stimuler la pousse, renforcer la fibre et révéler des cils plus longs, plus denses et visiblement en meilleure santé.</p><p>Chaque application dépose une fine couche de soin enrichie en actifs végétaux, qui nourrit les follicules tout en fortifiant les cils existants. En quelques semaines, le regard s’intensifie, les cils paraissent plus noirs et plus fournis.</p><h3>🌿 Une formule douce, vegan et efficace</h3><p>Développé par des experts en cosmétique naturelle, notre sérum ne contient ni parabènes, ni huiles minérales, ni ingrédients irritants. Il est vegan, cruelty-free et testé sous contrôle dermatologique. Sa texture légère pénètre rapidement, sans laisser de film gras.</p><p>Résultat : un soin que l’on adopte facilement dans sa routine beauté, et que l’on garde longtemps.</p><h3>💡 Résultats observés</h3><p>Des études indépendantes ont confirmé son efficacité :</p><ul><li>+76 % de croissance moyenne après 3 semaines d’utilisation quotidienne.</li><li>9 utilisatrices sur 10 ont remarqué des cils plus longs et plus fournis dès les premiers jours.</li><li>93 % ont constaté un regard plus intense et des cils plus sains.</li></ul><h3>🌙 Mode d’emploi</h3><ol><li><strong>Nettoyez</strong> soigneusement votre visage et vos paupières.</li><li><strong>Appliquez</strong> une fine ligne de sérum à la base des cils supérieurs, le soir avant de dormir.</li><li><strong>Laissez agir</strong> toute la nuit pour permettre aux actifs de stimuler la croissance.</li><li><strong>Répétez</strong> chaque jour pour des résultats visibles et durables.<br/></li></ol>"
+          }
+        },
+        "collapsible_text_tdtXqD": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment appliquer le sérum de croissance pour cils ?",
+            "content": "<p><strong>Étape 1 :</strong> Nettoyez délicatement votre visage à l’aide d’un démaquillant ou d’un nettoyant doux, sans huile.<br/><strong>Étape 2 :</strong> Appliquez une fine ligne de sérum Lash by Maya Beauty à la racine de vos cils supérieurs, comme un trait d’eye-liner. Une seule immersion de l’applicateur suffit pour les deux yeux.<br/><strong>Étape 3 :</strong> Patientez quelques instants afin que le produit sèche complètement avant d’utiliser d’autres soins ou du maquillage.<br/><strong>Étape 4 :</strong> Laissez le sérum agir durant la nuit pour une efficacité optimale.</p>"
+          }
+        },
+        "collapsible_text_cmBfH4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<p>Notre sérum est formulé à partir d’ingrédients d’origine végétale, extraits de plantes et de fleurs naturelles. Sa composition est 100 % naturelle et pensée pour sublimer vos cils jour après jour.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Hyaluronate</strong></span> : hydrate en profondeur et nourrit la fibre du cil pour lui redonner force et éclat. Il améliore la souplesse, favorise la pousse et limite naturellement la chute.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Pentylène glycol</strong></span> : cet actif multifonction adoucit et hydrate les cils tout en rendant la texture du sérum plus agréable à l’application. Il contribue aussi à une meilleure résistance à l’eau.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Extrait de ginseng Panax</strong></span> : reconnu pour stimuler la croissance capillaire, il renforce les cils de la racine à la pointe, les épaissit et les aide à gagner en longueur.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Extrait de Swertia Japonica</strong></span> : stimule la microcirculation au niveau des racines, favorisant ainsi une croissance optimale et des cils visiblement plus denses et plus longs.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Extrait de graines de citrouille</strong></span> : riche en nutriments, il prévient la chute et soutient la croissance naturelle pour des cils longs, forts et bien fournis.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Extrait de racine d’Acorus Calamus</strong></span> : fortifie les follicules et nourrit les racines afin de stimuler la repousse et limiter la perte.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Panthénol (vitamine B5)</strong></span> : revitalise les follicules et active la microcirculation autour des cils pour encourager une pousse saine et continue.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Extrait de racine de Serenoa Serrulata</strong></span> : aide à renforcer la structure du cil et à réduire la perte, pour des cils plus résistants et plus épais.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Biotinoyl Tripeptide-1</strong></span> : alliance de biotine et de peptides qui soutient la croissance, renforce les cils et réduit leur chute tout en améliorant leur densité et leur longueur.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Myristoyl Pentapeptide-17</strong></span> : stimule la production naturelle de kératine, la protéine essentielle à la solidité et à la beauté des cils.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Oligopeptide-10</strong></span> : contribue à une meilleure croissance et à une diminution de la perte, pour des cils plus sains et plus fournis.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Tocophérol (vitamine E)</strong></span> : protège les cils des agressions extérieures grâce à ses propriétés antioxydantes, tout en préservant leur brillance et leur couleur naturelle.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Biotine</strong></span> : favorise des cils plus forts et plus épais, tout en soutenant leur croissance et leur éclat au quotidien.<strong><br/></strong><span style=\"text-decoration:underline\"><strong>Eau</strong></span> : base naturelle du sérum, elle permet une hydratation optimale et une absorption douce des actifs.</p>"
+          }
+        },
+        "collapsible_text_gwz38t": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Satisfaits ou remboursés",
+            "content": "<p>Le sérum de croissance pour cils bénéficie de notre garantie satisfait ou remboursé.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_TLDtYE",
+        "title",
+        "badges",
+        "price",
+        "payment_terms",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible_text_VgiVaP",
+        "collapsible_text_tdtXqD",
+        "collapsible_text_cmBfH4",
+        "collapsible_text_gwz38t"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "related_products_T38Lqq": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Vous apprécierez également",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "impact_text_7LTTbj": {
+      "type": "impact-text",
+      "blocks": {
+        "item_MHPcg7": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Formule naturelle et végan",
+            "content": "<p>Le sérum pour cils Lash by Maya Beauty est élaboré à partir d’ingrédients d’origine naturelle, spécialement choisis pour nourrir et fortifier vos cils afin d’encourager une pousse harmonieuse.</p><p>Sa formule agit directement sur le cycle de croissance des cils en prolongeant la phase de pousse et en limitant la chute. Le résultat : des cils et des sourcils plus longs, plus épais et visiblement en meilleure santé.</p><p>Chaque personne a un rythme de pousse différent, mais beaucoup observent déjà une nette amélioration après seulement deux semaines d’utilisation régulière.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_MHPcg7"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related_products_T38Lqq",
+    "impact_text_7LTTbj"
+  ]
+}
