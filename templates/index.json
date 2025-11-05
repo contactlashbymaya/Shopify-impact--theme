@@ -210,9 +210,10 @@
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Logo_Cosmopolitain.webp",
+            "logo_width": 180,
             "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "content": "En quelques semaines, les cils paraissent plus denses et plus longs : on valide !",
             "show_rating": false,
             "rating": 4
           }
