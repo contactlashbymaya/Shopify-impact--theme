@@ -9926,18 +9926,51 @@ split-lines {
 
 
 
-/* === Uniformisation du bouton "Ajouter au panier" avec Apple Pay === */
-.product-form form[action*="/cart/add"] button[name="add"],
+:root{
+  --buy-btn-height: 56px;   /* ajuste ici pour ta hauteur cible */
+  --buttons-radius: 8px;
+}
+
+/* Cible la plupart des variantes d’Impact */
+.product-form .product-form__buttons .product-form__submit.button,
+.product-form .product-form__submit.button,
 .product-form .product-form__submit,
-.product-form .shopify-product-form button[type="submit"] {
-  height: var(--buy-btn-height, 54px) !important;
-  min-height: var(--buy-btn-height, 54px) !important;
-  line-height: var(--buy-btn-height, 54px) !important;
+.product-form button[name="add"],
+.product-form [type="submit"][name="add"],
+.product__info-container .product-form__submit,
+.product__info .product-form__submit,
+.buy-buttons .product-form__submit,
+.shopify-product-form .product-form__submit,
+button[id^="ProductSubmitButton"],
+button[id*="ProductSubmitButton"] {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  height: var(--buy-btn-height) !important;
+  min-height: var(--buy-btn-height) !important;
   padding: 0 !important;
-  width: 100%;
-  border-radius: var(--buttons-radius, 8px) !important;
-  font-size: 16px; /* adapte si besoin */
-  font-weight: 600;
-  text-align: center;
-  display: block;
+  width: 100% !important;
+  border-radius: var(--buttons-radius) !important;
+  line-height: normal !important; /* évite l’écrasement */
+}
+
+/* Certains thèmes encapsulent le texte dans des spans internes */
+.product-form .product-form__submit .button__content,
+.product-form .product-form__submit span,
+.product-form .product-form__submit .btn__text {
+  line-height: 1 !important;
+  display: inline-block !important;
+}
+
+/* Wrappers qui écrasent la hauteur via line-height:0 ou flex */
+.product-form .product-form__buttons,
+.product__info-container .product-form__buttons,
+.buy-buttons,
+.shopify-product-form {
+  line-height: normal !important;
+}
+
+/* Empêche les tailles texte à 0 héritées par erreur */
+.product-form .product-form__submit * {
+  font-size: inherit !important;
 }
