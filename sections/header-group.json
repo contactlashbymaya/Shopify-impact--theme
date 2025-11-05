@@ -20,10 +20,18 @@
             "text": "Livraison offert à partir de 44€ d'achat",
             "url": ""
           }
+        },
+        "message_ifPzkB": {
+          "type": "message",
+          "settings": {
+            "text": "Cosmétique naturelle & végan",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_ifPzkB"
       ],
       "settings": {
         "enable_sticky": false,
