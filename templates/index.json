@@ -244,15 +244,23 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Quel sont les délais de livraison ?",
+            "content": "<p>Cela dépend de votre lieu de résidence. En général, les commandes sont livrées sous 5 à 10 jours ouvrables après expédition. Toutes les informations de suivi et de livraison vous seront communiquées dans l’e-mail de confirmation.</p>"
+          }
+        },
+        "item_icyJjx": {
+          "type": "item",
+          "settings": {
+            "title": "Les paiments sur Lash by Maya Beauty sont-ils sûrs ?",
+            "content": "<p><br/>Absolument. Notre boutique en ligne utilise un protocole de sécurité avancé et un cryptage de données de dernière génération afin de protéger vos informations personnelles et vos paiements en toute confidentialité.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_icyJjx"
       ],
       "settings": {
         "full_width": false,
