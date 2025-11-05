@@ -259,7 +259,7 @@
           "type": "item",
           "settings": {
             "title": "Comment suivre l’envoi de ma commande ?",
-            "content": "<p><br/>Vous pouvez suivre votre commande en temps réel depuis notre page dédiée au suivi. L’historique de vos achats y est également disponible. Une fois votre colis expédié, un e-mail contenant toutes les informations de suivi vous sera automatiquement envoyé.</p>"
+            "content": "<p>Vous pouvez suivre votre commande en temps réel depuis notre page dédiée au suivi. L’historique de vos achats y est également disponible. Une fois votre colis expédié, un e-mail contenant toutes les informations de suivi vous sera automatiquement envoyé.</p>"
           }
         }
       },
@@ -276,8 +276,8 @@
         "title": "Lash By Maya Beauty répond à vos questions",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
