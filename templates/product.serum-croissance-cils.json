@@ -132,6 +132,42 @@
         "input_text_color": ""
       }
     },
+    "impact_text_7LTTbj": {
+      "type": "impact-text",
+      "blocks": {
+        "item_MHPcg7": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Formule naturelle et respectueuse",
+            "content": "<p>Le sérum pour cils Lash by Maya Beauty est élaboré à partir d’ingrédients d’origine naturelle, spécialement choisis pour nourrir et fortifier vos cils afin d’encourager une pousse harmonieuse.</p><p>Sa formule agit directement sur le cycle de croissance des cils en prolongeant la phase de pousse et en limitant la chute. Le résultat : des cils et des sourcils plus longs, plus épais et visiblement en meilleure santé.</p><p>Chaque personne a un rythme de pousse différent, mais beaucoup observent déjà une nette amélioration après seulement deux semaines d’utilisation régulière.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_MHPcg7"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "related_products_T38Lqq": {
       "type": "related-products",
       "name": "Related products",
@@ -158,6 +194,7 @@
   },
   "order": [
     "main",
+    "impact_text_7LTTbj",
     "related_products_T38Lqq"
   ]
 }
