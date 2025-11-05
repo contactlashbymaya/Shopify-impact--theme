@@ -108,7 +108,7 @@
           "type": "text",
           "settings": {
             "title": "À propos de Lash by Maya Beauty",
-            "content": "<p>Lash by Maya Beauty est une jeune marque dédiée à la beauté naturelle. Notre mission : vous offrir une solution efficace et douce pour favoriser la pousse de vos cils.</p>",
+            "content": "<p><strong>Lash by Maya Beauty</strong> est une jeune marque dédiée à la beauté naturelle. Notre mission : vous offrir une solution efficace et douce pour favoriser la pousse de vos cils.</p>",
             "enable_follow_on_shop": true
           }
         }
