@@ -9923,3 +9923,21 @@ split-lines {
 .product-form .product-form__buttons .shopify-payment-button {
   margin-top: 8px;
 }
+
+
+
+/* === Uniformisation du bouton "Ajouter au panier" avec Apple Pay === */
+.product-form form[action*="/cart/add"] button[name="add"],
+.product-form .product-form__submit,
+.product-form .shopify-product-form button[type="submit"] {
+  height: var(--buy-btn-height, 54px) !important;
+  min-height: var(--buy-btn-height, 54px) !important;
+  line-height: var(--buy-btn-height, 54px) !important;
+  padding: 0 !important;
+  width: 100%;
+  border-radius: var(--buttons-radius, 8px) !important;
+  font-size: 16px; /* adapte si besoin */
+  font-weight: 600;
+  text-align: center;
+  display: block;
+}
