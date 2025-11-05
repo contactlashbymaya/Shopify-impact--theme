@@ -107,7 +107,7 @@
         "item_MwEULW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Lash_by_maya_avant_apres_sur_client_1.png",
+            "image": "shopify://shop_images/Lash_by_maya_avant_apres_sur_client_1.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Heading 1",
@@ -119,6 +119,7 @@
         "item_bTcGJK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Lash_by_maya_avant_apres_sur_client_1.png",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Heading 2",
