@@ -137,7 +137,10 @@
       "name": "Related products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "serum-de-croissance-pour-cils",
+          "serum-de-croissance-pour-sourcils"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
