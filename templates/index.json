@@ -230,8 +230,8 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quels résultats attendre et sous quel délai avec Lash By Maya Beauty ?",
+            "content": "<p>Avec Lash by Maya Beauty, les premiers effets peuvent apparaître dès deux semaines d’utilisation. La régularité reste cependant essentielle : appliquez-le chaque jour et vous verrez progressivement vos cils se renforcer et s’allonger visiblement.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -257,8 +257,8 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Quels résultats attendre et sous quel délai ?",
-        "content": "<p>Avec Lash by Maya Beauty, les premiers effets peuvent apparaître dès deux semaines d’utilisation. La régularité reste cependant essentielle : appliquez-le chaque jour et vous verrez progressivement vos cils se renforcer et s’allonger visiblement.</p>",
+        "title": "Lash By Maya Beauty répond à vos questions",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
