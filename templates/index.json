@@ -252,7 +252,14 @@
           "type": "item",
           "settings": {
             "title": "Les paiments sur Lash by Maya Beauty sont-ils sûrs ?",
-            "content": "<p><br/>Absolument. Notre boutique en ligne utilise un protocole de sécurité avancé et un cryptage de données de dernière génération afin de protéger vos informations personnelles et vos paiements en toute confidentialité.</p>"
+            "content": "<p>Absolument. Notre boutique en ligne utilise un protocole de sécurité avancé et un cryptage de données de dernière génération afin de protéger vos informations personnelles et vos paiements en toute confidentialité.</p>"
+          }
+        },
+        "item_EpfRyG": {
+          "type": "item",
+          "settings": {
+            "title": "Comment suivre l’envoi de ma commande ?",
+            "content": "<p><br/>Vous pouvez suivre votre commande en temps réel depuis notre page dédiée au suivi. L’historique de vos achats y est également disponible. Une fois votre colis expédié, un e-mail contenant toutes les informations de suivi vous sera automatiquement envoyé.</p>"
           }
         }
       },
@@ -260,7 +267,8 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_icyJjx"
+        "item_icyJjx",
+        "item_EpfRyG"
       ],
       "settings": {
         "full_width": false,
