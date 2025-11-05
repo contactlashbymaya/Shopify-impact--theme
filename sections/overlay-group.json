@@ -13,14 +13,15 @@
   "sections": {
     "newsletter-popup": {
       "type": "newsletter-popup",
+      "disabled": true,
       "settings": {
         "apparition_delay": 5,
         "show_only_on_index": true,
         "show_only_for_visitors": true,
         "show_only_once": true,
-        "title": "Signup for our newsletter",
-        "button_text": "Subscribe",
-        "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+        "title": "Abonnez-vous à notre newsletter",
+        "button_text": "S'abonner",
+        "subtext": ""
       }
     },
     "privacy-banner": {
