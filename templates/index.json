@@ -127,11 +127,23 @@
             "button_url": "",
             "button_text": ""
           }
+        },
+        "item_ijXbAX": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
         }
       },
       "block_order": [
         "item_MwEULW",
-        "item_bTcGJK"
+        "item_bTcGJK",
+        "item_ijXbAX"
       ],
       "name": "Multiple images with text",
       "settings": {
