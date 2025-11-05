@@ -132,6 +132,29 @@
         "input_text_color": ""
       }
     },
+    "related_products_T38Lqq": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Vous apprécierez également",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "impact_text_7LTTbj": {
       "type": "impact-text",
       "blocks": {
@@ -139,7 +162,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Formule naturelle et respectueuse",
+            "subheading": "Formule naturelle et végan",
             "content": "<p>Le sérum pour cils Lash by Maya Beauty est élaboré à partir d’ingrédients d’origine naturelle, spécialement choisis pour nourrir et fortifier vos cils afin d’encourager une pousse harmonieuse.</p><p>Sa formule agit directement sur le cycle de croissance des cils en prolongeant la phase de pousse et en limitant la chute. Le résultat : des cils et des sourcils plus longs, plus épais et visiblement en meilleure santé.</p><p>Chaque personne a un rythme de pousse différent, mais beaucoup observent déjà une nette amélioration après seulement deux semaines d’utilisation régulière.</p>",
             "button_text": "",
             "button_url": "",
@@ -167,34 +190,11 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "related_products_T38Lqq": {
-      "type": "related-products",
-      "name": "Related products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Vous apprécierez également",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
     "main",
-    "impact_text_7LTTbj",
-    "related_products_T38Lqq"
+    "related_products_T38Lqq",
+    "impact_text_7LTTbj"
   ]
 }
