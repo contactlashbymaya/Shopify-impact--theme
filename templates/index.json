@@ -158,6 +158,32 @@
         "button_text_color": ""
       }
     },
+    "featured_collection_H9GCwY": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Faites des économies grâce à nos packs",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -215,10 +241,10 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Faites des économies grâce à nos packs",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Découvrir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -868,6 +894,7 @@
     "featured_collection_8aB3kn",
     "before_after_image_txfMkK",
     "multiple_images_with_text_YfcRKK",
+    "featured_collection_H9GCwY",
     "collection-list",
     "featured-collection",
     "impact-text",
