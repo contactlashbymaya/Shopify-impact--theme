@@ -55,7 +55,15 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "mascara-avec-serum-de-croissance-infuse",
+          "pack-duo-de-reve",
+          "pack-les-indispensables",
+          "pack-regard-intense",
+          "pack-trio-ultime",
+          "serum-de-croissance-pour-cils",
+          "serum-de-croissance-pour-sourcils"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
