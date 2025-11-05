@@ -122,8 +122,8 @@
             "image": "shopify://shop_images/Lash_by_maya_avant_apres_sur_client_1.png",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<h2>Satisfaction totale.<br/>Résultats visibles.</h2><p>★ ★ ★ ★ ★</p><p>« Si vous souhaitez stimuler la pousse de vos cils, je vous conseille vraiment d’essayer ce sérum. Les effets sont rapides et visibles ! »</p><p>— Julie, Sérum Cils Lash by Maya</p>",
+            "title": "",
+            "content": "<h2>Satisfaction totale.<br/>Résultats concrets.</h2><p>★ ★ ★ ★ ★</p><p>« Si vous souhaitez stimuler la pousse de vos cils, je vous conseille vraiment d’essayer ce sérum. Les effets sont rapides et visibles ! »</p><p>— Julie, Sérum Cils Lash by Maya</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -134,8 +134,8 @@
             "image": "shopify://shop_images/Lash_by_maya_avant_apres_sur_client_3.webp",
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "Image with text",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "",
+            "content": "<h2>Satisfaction totale.<br/>Résultats impresionnants.</h2><p>★ ★ ★ ★ ★</p><p>« Depuis que j’utilise ce sérum depuis deux mois, mes cils n’ont jamais été aussi longs ! On me fait sans cesse des compliments. »</p><p>— Camille, Sérum Cils Lash by Maya</p>",
             "button_url": "",
             "button_text": ""
           }
